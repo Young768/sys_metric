@@ -3,9 +3,11 @@
 These scripts are used to collect the system resource usage in a distributed environment.
 
 #Prerequisites for monitor
+
 psutil, python3
 
 #Prerequisites for client-server RPC update
+
 python2
 
 For testing RPC
